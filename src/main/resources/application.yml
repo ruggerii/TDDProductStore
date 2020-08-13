@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      host: mongo
+      port: 27017
+      database: 'Products'
+      username: 'product_admin'
+      password: '123123'
